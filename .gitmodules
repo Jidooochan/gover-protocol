@@ -1,0 +1,6 @@
+[submodule "gover-frontend"]
+	path = gover-frontend
+	url = https://github.com/linhduong2209/governance-hub
+[submodule "gover-contracts"]
+	path = gover-contracts
+	url = https://github.com/Jidooochan/Gover-contracts.git
